@@ -1,1 +1,1 @@
-# earthquake_api_python
+# Earthquake USGS API Data Analysis
